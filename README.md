@@ -9,18 +9,15 @@
 
 ###  Bluetooth Car
 Arduino-based robotic car controlled wirelessly via Bluetooth from a mobile device. The system enables manual navigation and motor control, allowing forward, backward, and turning movements. This project focuses on understanding embedded systems, motor drivers, and wireless communication.
-[Click aici pentru a vedea proiectul Bluetooth Car]([https://github.io](https://kisscezar.github.io/Bluetooth-Car/))
 
-https://kisscezar.github.io/Bluetooth-Car/
-
-https://github.com/KissCezar/Bluetooth-Car
+[https://kisscezar.github.io/Bluetooth-Car/]
 
 ---
 
 ###  Drone System
 A manually controlled drone operated using a handheld RC transmitter. The project focuses on flight stability, control precision, and piloting skills using a basic drone platform with brushless motors and ESC controllers.
 
-https://github.com/KissCezar/Drone
+[https://kisscezar.github.io/Drone/]
 
 ---
 
