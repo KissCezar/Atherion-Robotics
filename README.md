@@ -9,7 +9,7 @@
 
 ###  Bluetooth Car
 Arduino-based robotic car controlled wirelessly via Bluetooth from a mobile device. The system enables manual navigation and motor control, allowing forward, backward, and turning movements. This project focuses on understanding embedded systems, motor drivers, and wireless communication.
-[Click aici pentru a vedea proiectul Bluetooth Car](https://github.io)
+[Click aici pentru a vedea proiectul Bluetooth Car]([https://github.io](https://kisscezar.github.io/Bluetooth-Car/))
 
 
 https://github.com/KissCezar/Bluetooth-Car
