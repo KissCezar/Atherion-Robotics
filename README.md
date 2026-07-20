@@ -52,14 +52,6 @@ https://github.com/KissCezar/Tesla-Coil
 We aim to develop practical engineering systems that integrate robotics, embedded systems, and electronics to solve real-world problems. Through our projects, we focus on learning hardware design, programming, and system integration.
 
 ---
-# Proiectele mele de Robotică
-
-Bine ați venit! Aceasta este documentația oficială pentru roboții construiți de mine.
-
-## Selectați un robot pentru a vedea detalii:
-* [Robot pentru Fotbal](robot_fotbal.md) - Detalii despre design, motoare și cod.
-* [Robot pentru Labirint](robot_labirint.md) - Detalii despre senzori și algoritmul de navigare.
-
 
 ## Contact
 E-mail adress: kisscezar2008@gmail.com
